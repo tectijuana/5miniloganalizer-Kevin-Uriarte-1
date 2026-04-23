@@ -5,6 +5,8 @@
 
 ## Implementación de un Mini Cloud Log Analyzer en ARM64
 
+**Alumno:** URIARTE PARRA KEVIN ERNESTO 
+**CASO:** A
 **Modalidad:** Individual
 **Entorno de trabajo:** AWS Ubuntu ARM64 + GitHub Classroom
 **Lenguaje:** ARM64 Assembly (GNU Assembler) + Bash + GNU Make
@@ -165,3 +167,6 @@ Comprender cómo un problema de procesamiento de datos es implementado a nivel m
 
 Aunque este problema puede resolverse fácilmente en lenguajes de alto nivel, el propósito de la práctica es implementar **cómo lo resolvería la arquitectura**, no únicamente obtener el resultado.
 
+## Asciinema
+**Mil datos**
+https://asciinema.org/a/Gh120EaujOnpNkpC
