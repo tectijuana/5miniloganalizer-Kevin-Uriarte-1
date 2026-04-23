@@ -156,3 +156,20 @@ Toda solución debe tener:
 - Mantengan comentarios técnicos claros y breves.
 - Trabajen incrementalmente: primero parser, luego lógica de variante, luego pruebas.
 - Si trabajan en host x86_64, se recomienda emulación con `qemu-aarch64` o compilar/ejecutar directamente en AWS ARM64.
+
+## Ejecución
+
+make
+cat data/logs.txt | ./analyzer
+
+## Ejemplo
+
+Input:
+200
+404
+500
+
+Output:
+Éxitos 2xx: 1
+Errores 4xx: 1
+Errores 5xx: 1

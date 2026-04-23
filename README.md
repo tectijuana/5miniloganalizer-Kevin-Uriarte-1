@@ -1,8 +1,12 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QtRYN9D3)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23669020)
 
 # Práctica 1
 
 ## Implementación de un Mini Cloud Log Analyzer en ARM64
 
+**Alumno:** URIARTE PARRA KEVIN ERNESTO 
+**CASO:** A
 **Modalidad:** Individual
 **Entorno de trabajo:** AWS Ubuntu ARM64 + GitHub Classroom
 **Lenguaje:** ARM64 Assembly (GNU Assembler) + Bash + GNU Make
@@ -163,3 +167,6 @@ Comprender cómo un problema de procesamiento de datos es implementado a nivel m
 
 Aunque este problema puede resolverse fácilmente en lenguajes de alto nivel, el propósito de la práctica es implementar **cómo lo resolvería la arquitectura**, no únicamente obtener el resultado.
 
+## Asciinema
+**Mil datos**
+https://asciinema.org/a/Gh120EaujOnpNkpC
